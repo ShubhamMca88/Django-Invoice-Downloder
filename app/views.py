@@ -37,3 +37,6 @@ def pdf(request):
     slr = seller.objects.all()
     return render(request,'pdf.html',{'seller':slr})
 
+def about(request):
+    return render(request,'about.html')
+
