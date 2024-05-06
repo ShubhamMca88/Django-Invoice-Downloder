@@ -5,7 +5,7 @@
         </samp>
 </h1>
 <p align="center">
-        <samp> Hi, I'm a Full stack python web developer from Meerut , India. Python Programing and proficient knowledge of Django Web development , I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project.
+        <samp> Hello, I am a Full Stack Python web developer based in Meerut, India. I specialize in Python programming and have a strong grasp of Django web development. Continuously enhancing my skills in web development, I bring a varied skill set to the table, aiming to make innovative contributions to each project.
         </samp>
 </p>
 
@@ -26,7 +26,7 @@
 <br />
 
 <!-- About Section -->
- # About me
+ # Connect me 
  
 <p>
 
@@ -54,6 +54,8 @@
 
 [![Shubham 1](https://github-readme-stats.vercel.app/api/pin/?username=shubhamMca88&repo=Portfolio-Frontend-template-1&border_color=7F3&bg_color=0D1117&title_color=C9D1D9&text_color=8B9E&icon_color=7F3FB)](https://github.com/ShubhamMca88/Portfolio-Frontend-template-1.git)
 
+[![Shubham 2](https://github-readme-stats.vercel.app/api/pin/?username=shubhamMca88&repo=Django-Invoice-downloder&border_color=7F3&bg_color=0D1117&title_color=C9D1D9&text_color=8B9E&icon_color=7F3FB)](https://github.com/ShubhamMca88/Django-Invoice-downloder.git)
+
 <p align="left">
   <a href="https://github.com/chiragjain307?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -67,8 +69,5 @@
 
 # Some Screen shot
 <p>
-  <img src="img/1.png" alt="1 view">&nbsp;
-  <img src="img/2.png" alt="2 view">&nbsp;
-  <img src="img/3.png" alt="3 view">&nbsp;
-  <img src="img/4.png" alt="2 view">
+  <img src="app\static\img\1.png" alt="1 view">&nbsp;
  </p> 
